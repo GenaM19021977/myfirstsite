@@ -1,0 +1,7 @@
+установка пакетов
+
+pip install django
+pip install djangorestframework
+
+django-admin startproject backend #создание проекта
+python manage.py startapp api #создание приложения
